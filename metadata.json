@@ -1,0 +1,5 @@
+{
+  "name": "Ghép nhân vật đồng nhất",
+  "description": "Ứng dụng cho phép người dùng tạo ra hình ảnh nhân vật độc đáo bằng cách kết hợp nhiều hình ảnh tham chiếu và một bối cảnh, được hỗ trợ bởi AI của Gemini (Nano Banana).",
+  "requestFramePermissions": []
+}
